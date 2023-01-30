@@ -1,0 +1,23 @@
+[I 08:53:25.502 NotebookApp] Writing notebook server cookie secret to /root/.local/share/jupyter/runtime/notebook_cookie_secret
+[I 08:53:27.098 NotebookApp] jupyter_tensorboard extension loaded.
+[I 08:53:27.730 NotebookApp] JupyterLab extension loaded from /usr/local/lib/python3.8/dist-packages/jupyterlab
+[I 08:53:27.732 NotebookApp] JupyterLab application directory is /usr/local/share/jupyter/lab
+[I 08:53:27.736 NotebookApp] [Jupytext Server Extension] NotebookApp.contents_manager_class is (a subclass of) jupytext.TextFileContentsManager already - OK
+[I 08:53:27.739 NotebookApp] Serving notebooks from local directory: /root/micrograd
+[I 08:53:27.740 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 08:53:27.741 NotebookApp] http://hostname:8888/?token=9bbb0a22f3ea8acddabe0e1659ee71750dd16b1e58f92b7a
+[I 08:53:27.742 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 08:53:27.749 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-674-open.html
+    Or copy and paste this URL:
+        http://hostname:8888/?token=9bbb0a22f3ea8acddabe0e1659ee71750dd16b1e58f92b7a
+[I 08:53:36.550 NotebookApp] 302 GET /tree (172.17.0.1) 1.810000ms
+[I 08:53:57.147 NotebookApp] 302 POST /login?next=%2Ftree (172.17.0.1) 2.440000ms
+[I 08:54:22.604 NotebookApp] Writing notebook-signing key to /root/.local/share/jupyter/notebook_secret
+[W 08:54:22.606 NotebookApp] Notebook sources/micrograd/demo.ipynb is not trusted
+[I 08:54:22.941 NotebookApp] Kernel started: 9a51d407-e6fa-4183-8176-90038f732659, name: python3
+[W 08:54:55.323 NotebookApp] Notebook sources/micrograd/demo.ipynb is not trusted
+[I 08:56:24.287 NotebookApp] Saving file at /sources/micrograd/demo.ipynb
+[I 08:56:24.350 NotebookApp] Saving demo.ipynb
