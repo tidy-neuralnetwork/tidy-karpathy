@@ -21,3 +21,445 @@
 [W 08:54:55.323 NotebookApp] Notebook sources/micrograd/demo.ipynb is not trusted
 [I 08:56:24.287 NotebookApp] Saving file at /sources/micrograd/demo.ipynb
 [I 08:56:24.350 NotebookApp] Saving demo.ipynb
+[I 08:58:23.848 NotebookApp] Saving file at /sources/micrograd/demo.ipynb
+[I 08:58:23.914 NotebookApp] Saving demo.ipynb
+[I 09:17:32.202 NotebookApp] 302 GET /notebooks/sources/micrograd (172.17.0.1) 2.170000ms
+[I 09:17:32.245 NotebookApp] Starting buffering for 9a51d407-e6fa-4183-8176-90038f732659:6b30de01b0184abb839c0c9b7dac8342
+[W 09:17:49.790 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 09:17:49.955 NotebookApp] Kernel started: acaed7a8-b568-4f1d-90e3-dc564787e29d, name: python3
+[I 09:19:50.903 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 09:19:50.944 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 09:19:50.945 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 09:21:49.970 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 09:21:50.006 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 09:21:50.007 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 09:23:49.972 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 09:23:50.005 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 09:23:50.006 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+/usr/local/lib/python3.8/dist-packages/nbformat/__init__.py:128: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+/usr/local/lib/python3.8/dist-packages/notebook/services/contents/manager.py:354: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate_nb(model['content'])
+[I 09:25:49.975 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 09:25:50.014 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 09:25:50.015 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 09:27:49.979 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 09:27:50.014 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 09:27:50.016 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 09:28:10.335 NotebookApp] Kernel started: 3acb5cd1-a326-4907-826e-f490ef469ec0, name: python3
+[I 09:28:12.803 NotebookApp] Starting buffering for 3acb5cd1-a326-4907-826e-f490ef469ec0:225228164efb45fcb2eafea7220e5513
+[I 09:29:50.671 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 09:29:50.724 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 09:29:50.726 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 09:30:46.714 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 09:30:46.754 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 09:30:46.755 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 09:31:49.982 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 09:31:50.018 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 09:31:50.019 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 09:49:50.663 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 09:49:50.708 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 09:49:50.709 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:03:49.990 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:03:50.027 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:03:50.028 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:05:50.681 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:05:50.728 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:05:50.730 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:15:50.679 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:15:50.713 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:15:50.715 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:15:55.989 NotebookApp] Starting buffering for 9a51d407-e6fa-4183-8176-90038f732659:d74e538954ac48e3aacbb1048cc10c78
+[I 10:15:58.582 NotebookApp] Starting buffering for acaed7a8-b568-4f1d-90e3-dc564787e29d:8ee62b3a0da84fe689674214d17e4900
+[I 18:04:47.804 NotebookApp] jupyter_tensorboard extension loaded.
+[I 18:04:48.391 NotebookApp] JupyterLab extension loaded from /usr/local/lib/python3.8/dist-packages/jupyterlab
+[I 18:04:48.393 NotebookApp] JupyterLab application directory is /usr/local/share/jupyter/lab
+[I 18:04:48.397 NotebookApp] [Jupytext Server Extension] NotebookApp.contents_manager_class is (a subclass of) jupytext.TextFileContentsManager already - OK
+[I 18:04:48.399 NotebookApp] The port 9801 is already in use, trying another port.
+[I 18:04:48.400 NotebookApp] Serving notebooks from local directory: /root/micrograd
+[I 18:04:48.401 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 18:04:48.402 NotebookApp] http://hostname:8888/?token=496cffd28dc4272d0842cd553ca83742a006f2147c21d80f
+[I 18:04:48.402 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 18:04:48.408 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-778-open.html
+    Or copy and paste this URL:
+        http://hostname:8888/?token=496cffd28dc4272d0842cd553ca83742a006f2147c21d80f
+[I 18:30:39.619 NotebookApp] jupyter_tensorboard extension loaded.
+[I 18:30:40.269 NotebookApp] JupyterLab extension loaded from /usr/local/lib/python3.8/dist-packages/jupyterlab
+[I 18:30:40.271 NotebookApp] JupyterLab application directory is /usr/local/share/jupyter/lab
+[I 18:30:40.275 NotebookApp] [Jupytext Server Extension] NotebookApp.contents_manager_class is (a subclass of) jupytext.TextFileContentsManager already - OK
+[I 18:30:40.278 NotebookApp] Serving notebooks from local directory: /root/micrograd
+[I 18:30:40.279 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 18:30:40.280 NotebookApp] http://hostname:8888/?token=411b9f0bcb19552cd05dd37d0adbcadff1918638bf90f388
+[I 18:30:40.281 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 18:30:40.286 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-1739-open.html
+    Or copy and paste this URL:
+        http://hostname:8888/?token=411b9f0bcb19552cd05dd37d0adbcadff1918638bf90f388
+[W 18:30:54.331 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 18:30:54.564 NotebookApp] Kernel started: cddb2fb2-ba76-4ae9-91f7-c38e37acbfce, name: python3
+[I 20:37:41.393 NotebookApp] Kernel started: 000468ca-357e-4580-b1da-19de31c49e73, name: python3
+[I 20:37:52.451 NotebookApp] Starting buffering for 000468ca-357e-4580-b1da-19de31c49e73:4af69a83598243aa91ae4c00f911c6c1
+[I 20:37:55.414 NotebookApp] Kernel started: 89cf3d58-ffe5-4120-8ccc-f4634d55bbf1, name: python3
+[I 20:37:59.527 NotebookApp] Starting buffering for 89cf3d58-ffe5-4120-8ccc-f4634d55bbf1:cad5d273b18841d682cf2214750d3025
+[I 20:46:54.636 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 20:46:54.669 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 20:46:54.670 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+/usr/local/lib/python3.8/dist-packages/nbformat/__init__.py:128: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+/usr/local/lib/python3.8/dist-packages/notebook/services/contents/manager.py:354: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate_nb(model['content'])
+[I 20:48:54.620 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 20:48:54.651 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 20:48:54.652 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 20:50:54.617 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 20:50:54.652 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 20:50:54.654 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 20:52:54.627 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 20:52:54.663 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 20:52:54.664 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 20:54:54.625 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 20:54:54.658 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 20:54:54.659 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 20:56:54.622 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 20:56:54.664 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 20:56:54.666 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 22:14:58.843 NotebookApp] Starting buffering for cddb2fb2-ba76-4ae9-91f7-c38e37acbfce:91bed8b8737e430f97c41a259a1ba07b
+[I 22:14:59.875 NotebookApp] Restoring connection for cddb2fb2-ba76-4ae9-91f7-c38e37acbfce:91bed8b8737e430f97c41a259a1ba07b
+[I 22:23:18.626 NotebookApp] Starting buffering for cddb2fb2-ba76-4ae9-91f7-c38e37acbfce:91bed8b8737e430f97c41a259a1ba07b
+[I 22:23:20.823 NotebookApp] Restoring connection for cddb2fb2-ba76-4ae9-91f7-c38e37acbfce:91bed8b8737e430f97c41a259a1ba07b
+[I 09:29:38.903 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 09:29:38.938 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 09:29:38.940 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 09:31:38.890 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 09:31:38.923 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 09:31:38.924 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 09:33:38.895 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 09:33:38.927 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 09:33:38.928 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 09:37:38.894 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 09:37:38.924 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 09:37:38.925 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 09:39:38.874 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 09:39:38.903 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 09:39:38.904 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 09:43:38.871 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 09:43:38.906 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 09:43:38.907 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 09:44:22.996 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 09:44:23.036 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 09:44:23.038 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 09:44:31.775 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 09:44:31.807 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 09:44:31.809 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 09:45:38.864 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 09:45:38.894 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 09:45:38.896 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 09:46:40.388 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 09:46:40.419 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 09:46:40.421 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 09:46:47.795 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 09:46:47.837 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 09:46:47.839 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 09:47:38.876 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 09:47:38.906 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 09:47:38.907 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 09:47:44.129 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 09:47:44.163 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 09:47:44.164 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 09:49:38.878 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 09:49:38.906 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 09:49:38.908 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 09:50:04.141 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 09:50:04.180 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 09:50:04.181 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 09:50:20.162 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 09:50:20.209 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 09:50:20.212 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 09:51:38.873 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 09:51:38.901 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 09:51:38.903 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 09:53:38.882 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 09:53:38.917 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 09:53:38.918 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 09:54:39.847 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 09:54:39.876 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 09:54:39.877 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 09:54:50.090 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 09:54:50.132 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 09:54:50.135 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 09:55:38.855 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 09:55:38.885 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 09:55:38.887 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 09:55:50.030 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 09:55:50.064 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 09:55:50.066 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 09:58:16.424 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 09:58:16.452 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 09:58:16.454 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 09:59:11.746 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 09:59:11.792 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 09:59:11.793 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 09:59:38.862 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 09:59:38.895 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 09:59:38.896 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:01:22.841 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:01:22.877 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:01:22.878 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:01:38.867 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:01:38.906 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:01:38.907 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:01:45.254 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:01:45.295 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:01:45.297 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:03:38.858 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:03:38.889 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:03:38.890 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:05:38.856 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:05:38.887 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:05:38.889 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:07:38.854 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:07:38.884 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:07:38.886 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:09:38.872 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:09:38.905 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:09:38.906 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:11:22.135 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:11:22.177 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:11:22.179 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:11:33.545 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:11:33.585 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:11:33.587 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:13:12.849 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:13:12.888 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:13:12.890 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:13:38.889 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:13:38.932 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:13:38.936 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:15:11.471 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:15:11.503 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:15:11.505 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:15:38.886 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:15:38.920 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:15:38.922 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:15:49.067 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:15:49.121 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:15:49.122 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:15:49.158 NotebookApp] Starting buffering for cddb2fb2-ba76-4ae9-91f7-c38e37acbfce:91bed8b8737e430f97c41a259a1ba07b
+[W 10:15:49.462 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:16:29.831 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:16:29.862 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:16:29.864 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:16:39.904 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:16:39.956 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:16:39.958 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:17:05.366 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:17:05.398 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:17:05.399 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:17:05.934 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:17:05.976 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:17:05.978 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:17:06.177 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:17:06.210 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:17:06.211 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:17:49.772 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:17:49.806 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:17:49.807 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[W 10:18:05.887 NotebookApp] Notebook sources/micrograd/trace_graph.ipynb is not trusted
+[I 10:18:06.033 NotebookApp] Kernel started: 982bf337-6bf3-4754-98fa-8e9277c9e2d9, name: python3
+[I 10:19:16.281 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:19:16.326 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:19:16.327 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:19:25.880 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:19:25.913 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:19:25.914 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:19:49.782 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:19:49.818 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:19:49.819 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:20:06.419 NotebookApp] Saving file at /sources/micrograd/trace_graph.ipynb
+[I 10:20:06.449 NotebookApp] Saving trace_graph.ipynb
+[W 10:20:06.450 NotebookApp] Notebook sources/micrograd/trace_graph.ipynb is not trusted
+[I 10:20:58.015 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:20:58.060 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:20:58.062 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:21:49.787 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:21:49.823 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:21:49.825 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:22:00.694 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:22:00.725 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:22:00.727 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:22:15.935 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:22:15.967 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:22:15.968 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:23:49.787 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:23:49.818 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:23:49.819 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:24:44.152 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:24:44.191 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:24:44.192 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:26:31.993 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:26:32.024 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:26:32.026 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:26:34.026 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:26:34.074 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:26:34.077 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:26:35.262 NotebookApp] Starting buffering for cddb2fb2-ba76-4ae9-91f7-c38e37acbfce:7853d617f47d44678ed022f422f85526
+[I 10:26:39.816 NotebookApp] Starting buffering for 982bf337-6bf3-4754-98fa-8e9277c9e2d9:c636233dbfe840dc8e971e1536514539
+[W 10:26:43.022 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:28:43.373 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:28:43.406 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:28:43.407 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:29:18.513 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:29:18.556 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:29:18.558 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:30:03.564 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:30:03.602 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:30:03.603 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:33:20.695 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:33:20.733 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:33:20.735 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:34:43.384 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:34:43.425 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:34:43.428 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:35:25.745 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:35:25.781 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:35:25.782 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:36:02.332 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:36:02.371 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:36:02.373 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:36:41.273 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:36:41.304 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:36:41.305 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:36:43.393 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:36:43.435 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:36:43.437 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:38:43.384 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:38:43.416 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:38:43.418 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:39:51.805 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:39:51.842 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:39:51.845 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:40:43.397 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:40:43.428 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:40:43.429 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:45:29.651 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:45:29.684 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:45:29.686 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:45:54.187 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:45:54.219 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:45:54.221 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:46:23.376 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:46:23.409 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:46:23.410 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:46:43.420 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:46:43.450 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:46:43.451 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:48:38.898 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:48:38.941 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:48:38.943 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:49:14.138 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:49:14.170 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:49:14.171 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:49:51.106 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:49:51.138 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:49:51.139 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:50:03.797 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:50:03.837 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:50:03.839 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:50:43.426 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:50:43.455 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:50:43.456 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:50:48.713 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:50:48.745 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:50:48.747 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:51:17.087 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:51:17.130 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:51:17.131 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:51:48.674 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:51:48.707 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:51:48.709 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:52:07.112 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:52:07.151 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:52:07.152 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:52:43.425 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:52:43.455 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:52:43.456 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:58:26.250 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:58:26.279 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:58:26.281 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:58:39.815 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:58:39.847 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:58:39.848 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:58:43.395 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:58:43.426 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:58:43.427 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 10:58:47.627 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 10:58:47.656 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 10:58:47.657 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 11:00:43.405 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 11:00:43.437 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 11:00:43.439 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 11:06:03.518 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 11:06:03.569 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 11:06:03.571 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 11:06:43.406 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 11:06:43.444 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 11:06:43.446 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 14:18:14.491 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 14:18:14.526 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 14:18:14.528 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 14:18:19.538 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 14:18:19.573 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 14:18:19.575 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 14:20:43.460 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 14:20:43.491 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 14:20:43.493 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 14:21:46.831 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 14:21:46.875 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 14:21:46.876 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 14:21:47.698 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 14:21:47.748 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 14:21:47.751 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 14:24:43.466 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 14:24:43.498 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 14:24:43.500 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 14:26:43.479 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 14:26:43.521 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 14:26:43.523 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 14:27:20.869 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 14:27:20.907 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 14:27:20.908 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 14:28:41.327 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 14:28:41.359 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 14:28:41.360 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 14:30:43.439 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 14:30:43.477 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 14:30:43.479 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 14:30:51.157 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 14:30:51.190 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 14:30:51.192 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 14:32:43.443 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 14:32:43.481 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 14:32:43.483 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 14:33:00.636 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 14:33:00.699 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 14:33:00.702 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 14:34:43.445 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 14:34:43.475 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 14:34:43.477 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 14:36:10.272 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 14:36:10.318 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 14:36:10.319 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 14:36:31.874 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 14:36:31.916 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 14:36:31.918 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 14:40:37.897 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 14:40:37.933 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 14:40:37.935 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 21:52:41.579 NotebookApp] Starting buffering for cddb2fb2-ba76-4ae9-91f7-c38e37acbfce:2f6081b68f6046a19866f033ae46b818
+[I 21:52:43.551 NotebookApp] Restoring connection for cddb2fb2-ba76-4ae9-91f7-c38e37acbfce:2f6081b68f6046a19866f033ae46b818
+[I 07:13:38.430 NotebookApp] Starting buffering for cddb2fb2-ba76-4ae9-91f7-c38e37acbfce:2f6081b68f6046a19866f033ae46b818

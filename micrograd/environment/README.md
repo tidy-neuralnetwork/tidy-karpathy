@@ -16,7 +16,7 @@ sudo docker run -itd  \
 --user root \
 --privileged \
 -p 9801:9801 \
--v /etc/localtime:/etc/localtime \
+-v /etc/localtime:/etc/localtime 
 --ipc=host \
 -v /tmp/.X11-unix:/tmp/.X11-unix \
 -e DISPLAY=$DISPLAY \
@@ -50,7 +50,6 @@ http://localhost:9801/tree
 # install lib
 ```
 pip3 install micrograd
-pip3 install graphviz
 
 apt updata
 apt install -y graphviz 
