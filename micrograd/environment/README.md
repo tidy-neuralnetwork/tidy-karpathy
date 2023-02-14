@@ -16,11 +16,11 @@ sudo docker run -itd  \
 --user root \
 --privileged \
 -p 9801:9801 \
--v /etc/localtime:/etc/localtime 
+-v /etc/localtime:/etc/localtime \
 --ipc=host \
 -v /tmp/.X11-unix:/tmp/.X11-unix \
 -e DISPLAY=$DISPLAY \
--v /data/home/baseuser/tidy-workspace/tidy-karpathy/micrograd:/root/micrograd \
+-v /data/home/baseuser/tidy-neuralnetwork/tidy-karpathy/micrograd:/root/micrograd \
 -w /root/micrograd nvcr.io/nvidia/pytorch:22.12-py3
 
 
@@ -50,8 +50,9 @@ http://localhost:9801/tree
 # install lib
 ```
 pip3 install micrograd
+pip3 install graphviz
 
-apt updata
+apt update
 apt install -y graphviz 
 
 ```
