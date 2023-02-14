@@ -463,3 +463,97 @@
 [I 21:52:41.579 NotebookApp] Starting buffering for cddb2fb2-ba76-4ae9-91f7-c38e37acbfce:2f6081b68f6046a19866f033ae46b818
 [I 21:52:43.551 NotebookApp] Restoring connection for cddb2fb2-ba76-4ae9-91f7-c38e37acbfce:2f6081b68f6046a19866f033ae46b818
 [I 07:13:38.430 NotebookApp] Starting buffering for cddb2fb2-ba76-4ae9-91f7-c38e37acbfce:2f6081b68f6046a19866f033ae46b818
+[I 21:40:49.223 NotebookApp] Writing notebook server cookie secret to /root/.local/share/jupyter/runtime/notebook_cookie_secret
+[I 21:40:50.134 NotebookApp] jupyter_tensorboard extension loaded.
+[I 21:40:50.675 NotebookApp] JupyterLab extension loaded from /usr/local/lib/python3.8/dist-packages/jupyterlab
+[I 21:40:50.676 NotebookApp] JupyterLab application directory is /usr/local/share/jupyter/lab
+[I 21:40:50.681 NotebookApp] [Jupytext Server Extension] NotebookApp.contents_manager_class is (a subclass of) jupytext.TextFileContentsManager already - OK
+[I 21:40:50.683 NotebookApp] Serving notebooks from local directory: /root/micrograd
+[I 21:40:50.684 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 21:40:50.686 NotebookApp] http://hostname:8888/?token=699aa89fbd568980867127554d44a1b12c25ec99171f2f2e
+[I 21:40:50.687 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 21:40:50.694 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-662-open.html
+    Or copy and paste this URL:
+        http://hostname:8888/?token=699aa89fbd568980867127554d44a1b12c25ec99171f2f2e
+[W 21:40:57.201 NotebookApp] Clearing invalid/expired login cookie username-localhost-9801
+[W 21:40:57.204 NotebookApp] Forbidden
+[W 21:40:57.209 NotebookApp] 403 GET /api/sessions?_=1676295457366 (172.17.0.1) 9.710000ms referer=http://localhost:9801/tree
+[W 21:40:57.214 NotebookApp] Clearing invalid/expired login cookie username-localhost-9801
+[W 21:40:57.216 NotebookApp] Forbidden
+[W 21:40:57.219 NotebookApp] 403 GET /api/terminals?_=1676295457367 (172.17.0.1) 6.220000ms referer=http://localhost:9801/tree
+[I 21:40:58.614 NotebookApp] 302 GET /tree (172.17.0.1) 1.030000ms
+[W 21:41:00.709 NotebookApp] 401 POST /login?next=%2Ftree (172.17.0.1) 3.470000ms referer=http://localhost:9801/login?next=%2Ftree
+[I 21:41:22.896 NotebookApp] 302 POST /login?next=%2Ftree (172.17.0.1) 2.880000ms
+[I 21:41:32.759 NotebookApp] Writing notebook-signing key to /root/.local/share/jupyter/notebook_secret
+[W 21:41:32.763 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 21:41:33.473 NotebookApp] Kernel started: 4f447f0f-4600-49bf-8b6d-006f6b17a836, name: python3
+[W 21:41:34.529 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20230213214049 (172.17.0.1) 28.220000ms referer=http://localhost:9801/notebooks/sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 21:43:33.475 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 21:43:33.512 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 21:43:33.513 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 22:01:33.478 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 22:01:33.515 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 22:01:33.517 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 07:13:49.832 NotebookApp] Starting buffering for 4f447f0f-4600-49bf-8b6d-006f6b17a836:890d51cd3a2b4c2791f6928aed4752a9
+[I 07:13:51.225 NotebookApp] Restoring connection for 4f447f0f-4600-49bf-8b6d-006f6b17a836:890d51cd3a2b4c2791f6928aed4752a9
+[I 08:18:13.520 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 08:18:13.551 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 08:18:13.553 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 08:18:38.430 NotebookApp] Starting buffering for 4f447f0f-4600-49bf-8b6d-006f6b17a836:890d51cd3a2b4c2791f6928aed4752a9
+[W 08:18:41.803 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[W 08:18:42.309 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20230213214049 (172.17.0.1) 5.390000ms referer=http://localhost:9801/notebooks/sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 08:20:43.274 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 08:20:43.309 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 08:20:43.311 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[W 08:30:29.846 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[W 08:30:30.510 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20230213214049 (172.17.0.1) 4.340000ms referer=http://localhost:9801/notebooks/sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 08:31:25.756 NotebookApp] jupyter_tensorboard extension loaded.
+[I 08:31:26.254 NotebookApp] JupyterLab extension loaded from /usr/local/lib/python3.8/dist-packages/jupyterlab
+[I 08:31:26.255 NotebookApp] JupyterLab application directory is /usr/local/share/jupyter/lab
+[I 08:31:26.263 NotebookApp] [Jupytext Server Extension] NotebookApp.contents_manager_class is (a subclass of) jupytext.TextFileContentsManager already - OK
+[I 08:31:26.266 NotebookApp] Serving notebooks from local directory: /root/micrograd
+[I 08:31:26.267 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 08:31:26.269 NotebookApp] http://hostname:8888/?token=e579fe7d4fb38e024233ff29b5d9fbf8d36e275718c7b19e
+[I 08:31:26.271 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 08:31:26.279 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-663-open.html
+    Or copy and paste this URL:
+        http://hostname:8888/?token=e579fe7d4fb38e024233ff29b5d9fbf8d36e275718c7b19e
+[I 08:31:29.948 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 08:31:30.025 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 08:31:30.028 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[W 08:31:30.565 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 08:31:31.089 NotebookApp] Kernel started: e274251e-bb18-465e-9f58-8180c8a827fb, name: python3
+[W 08:31:31.161 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20230214083125 (172.17.0.1) 19.510000ms referer=http://localhost:9801/notebooks/sources/micrograd/micrograd_from_scratch_yay.ipynb
+[W 08:31:40.666 NotebookApp] 404 GET /api/kernels/4f447f0f-4600-49bf-8b6d-006f6b17a836/channels?session_id=78d44d61c88f438d8ff8cb7efd651d10 (172.17.0.1): Kernel does not exist: 4f447f0f-4600-49bf-8b6d-006f6b17a836
+[W 08:31:40.670 NotebookApp] 404 GET /api/kernels/4f447f0f-4600-49bf-8b6d-006f6b17a836/channels?session_id=78d44d61c88f438d8ff8cb7efd651d10 (172.17.0.1) 6.010000ms referer=None
+[W 08:32:13.179 NotebookApp] 404 GET /api/kernels/4f447f0f-4600-49bf-8b6d-006f6b17a836/channels?session_id=78d44d61c88f438d8ff8cb7efd651d10 (172.17.0.1): Kernel does not exist: 4f447f0f-4600-49bf-8b6d-006f6b17a836
+[W 08:32:13.182 NotebookApp] 404 GET /api/kernels/4f447f0f-4600-49bf-8b6d-006f6b17a836/channels?session_id=78d44d61c88f438d8ff8cb7efd651d10 (172.17.0.1) 4.110000ms referer=None
+[W 08:33:19.717 NotebookApp] 404 GET /api/kernels/4f447f0f-4600-49bf-8b6d-006f6b17a836/channels?session_id=78d44d61c88f438d8ff8cb7efd651d10 (172.17.0.1): Kernel does not exist: 4f447f0f-4600-49bf-8b6d-006f6b17a836
+[W 08:33:19.726 NotebookApp] 404 GET /api/kernels/4f447f0f-4600-49bf-8b6d-006f6b17a836/channels?session_id=78d44d61c88f438d8ff8cb7efd651d10 (172.17.0.1) 10.980000ms referer=None
+[I 08:33:31.077 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 08:33:31.112 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 08:33:31.114 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[W 08:37:39.467 NotebookApp] Notebook sources/micrograd/demo.ipynb is not trusted
+[I 08:37:39.683 NotebookApp] Kernel started: 6a7d31ea-9aab-41f1-ac99-7758c1e3d46d, name: python3
+[W 08:37:39.747 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20230214083125 (172.17.0.1) 7.380000ms referer=http://localhost:9801/notebooks/sources/micrograd/demo.ipynb
+[W 08:37:51.464 NotebookApp] Notebook sources/micrograd/trace_graph.ipynb is not trusted
+[I 08:37:51.620 NotebookApp] Kernel started: 2e15c507-3b9e-45af-be6c-d2ed727cd4ca, name: python3
+[W 08:37:51.651 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20230214083125 (172.17.0.1) 7.630000ms referer=http://localhost:9801/notebooks/sources/micrograd/trace_graph.ipynb
+[I 08:38:14.320 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 08:38:14.361 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 08:38:14.365 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 08:38:16.562 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 08:38:16.603 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
+[W 08:38:16.604 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[I 08:38:47.462 NotebookApp] Starting buffering for 6a7d31ea-9aab-41f1-ac99-7758c1e3d46d:0dadd0cae88740dc82412426ce61eb17
+[W 08:38:50.849 NotebookApp] Notebook sources/micrograd/micrograd_from_scratch_yay.ipynb is not trusted
+[W 08:38:52.323 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20230214083125 (172.17.0.1) 4.090000ms referer=http://localhost:9801/notebooks/sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 08:40:45.375 NotebookApp] Starting buffering for 2e15c507-3b9e-45af-be6c-d2ed727cd4ca:5e0f75915b8c492a9001304707c732c5
+[I 08:40:51.486 NotebookApp] Saving file at /sources/micrograd/micrograd_from_scratch_yay.ipynb
+[I 08:40:51.525 NotebookApp] Saving micrograd_from_scratch_yay.ipynb
